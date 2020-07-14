@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest version of the Consumer Version of Zoom.</string>
     <key>Identifier</key>
-    <string>com.github.jzsarrett.download.zoombasicus</string>
+    <string>com.github.jzsarrett.autopkg.download.zoombasicus</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
