@@ -39,7 +39,7 @@ Intel Macs as of Munki tools version 0.9.2.</string>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.jzsarrett.download.zoombasicus</string>
+    <string>com.github.jzsarrett.autopkg.download.zoombasicus</string>
     <key>Process</key>
     <array>
         <dict>
